@@ -1,0 +1,186 @@
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.Form1.resources
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\Administrator.65-4\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.pdb
+F:\Server\Server\obj\x86\Debug\Server.exe
+F:\Server\Server\obj\x86\Debug\Server.pdb
+F:\Server\Server\bin\Debug\Server.exe
+F:\Server\Server\bin\Debug\Server.pdb
+F:\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\Server.exe
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\Server.pdb
+G:\Yarin_Project\Network\Server\Server\bin\Debug\Server.exe
+G:\Yarin_Project\Network\Server\Server\bin\Debug\Server.pdb
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\Server.Form1.resources
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Yarin_Project\Network\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\Server.pdb
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\bin\Debug\Server.exe
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\65-24\שולחן העבודה\Network\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\Network\Server\Server\bin\Debug\Server.exe
+C:\Users\owner\Desktop\Network\Server\Server\bin\Debug\Server.pdb
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\Network\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\Server.exe
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\Server.pdb
+F:\Network of sean cohen\Server\Server\bin\Debug\Server.exe
+F:\Network of sean cohen\Server\Server\bin\Debug\Server.pdb
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Network of sean cohen\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Natali Project\Server\Server\obj\x86\Debug\Server.exe
+E:\Natali Project\Server\Server\obj\x86\Debug\Server.pdb
+E:\Natali Project\Server\Server\bin\Debug\Server.exe
+E:\Natali Project\Server\Server\bin\Debug\Server.pdb
+E:\Natali Project\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Natali Project\Server\Server\obj\x86\Debug\Server.Form1.resources
+E:\Natali Project\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\Natali Project\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Natali Project\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Natali Project\Server\Server\obj\x86\Debug\Server.exe
+F:\Natali Project\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\owner\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\netWork c\Server\Server\bin\Debug\Server.exe
+C:\Users\owner\Desktop\netWork c\Server\Server\bin\Debug\Server.pdb
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\Server.exe
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+Z:\יב 2 - 2015\netWork c\Server\Server\bin\Debug\Server.exe
+Z:\יב 2 - 2015\netWork c\Server\Server\bin\Debug\Server.pdb
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\יב 2 - 2015\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\netWork c\Server\Server\obj\x86\Debug\Server.exe
+F:\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+F:\netWork c\Server\Server\bin\Debug\Server.exe
+F:\netWork c\Server\Server\bin\Debug\Server.pdb
+F:\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.exe
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\27.1.15\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\27.1.15\netWork c\Server\Server\bin\Debug\Server.exe
+F:\27.1.15\netWork c\Server\Server\bin\Debug\Server.pdb
+G:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.exe
+G:\27.1.15\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\11.3.15\netWork c\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\11.3.15\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\Server.exe
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\bin\Debug\Server.exe
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\bin\Debug\Server.pdb
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\יב 4 - 2015\עדן ביטון\13.3\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\Server.exe
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+F:\13.3\netWork c\Server\Server\bin\Debug\Server.exe
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\13.3\netWork c\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\13.3\netWork c\Server\Server\bin\Debug\Server.pdb
+E:\26.3\netWork c\Server\Server\obj\x86\Debug\Server.exe
+E:\26.3\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+E:\26.3\netWork c\Server\Server\bin\Debug\Server.exe
+E:\26.3\netWork c\Server\Server\bin\Debug\Server.pdb
+E:\26.3\netWork c\Server\Server\obj\x86\Debug\Server.Form1.resources
+E:\26.3\netWork c\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\26.3\netWork c\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+H:\FINISHPERF\netWork c\Server\Server\obj\x86\Debug\Server.exe
+H:\FINISHPERF\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+E:\FINISHPERF\netWork c\Server\Server\obj\x86\Debug\Server.exe
+E:\FINISHPERF\netWork c\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\bin\Debug\Server.exe
+C:\Users\owner\Desktop\עדן ביטון- 318230950\Source-קבצי הפרויקט\Chat- C#\Server\Server\bin\Debug\Server.pdb
+F:\simple chat\Server\Server\obj\x86\Debug\Server.exe
+F:\simple chat\Server\Server\obj\x86\Debug\Server.pdb
+F:\simple chat\Server\Server\bin\Debug\Server.exe
+F:\simple chat\Server\Server\bin\Debug\Server.pdb
+F:\simple chat\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\simple chat\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\simple chat\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+F:\simple chat\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\owner\Desktop\simple chat\Server\Server\bin\Debug\Server.exe
+C:\Users\owner\Desktop\simple chat\Server\Server\bin\Debug\Server.pdb
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\owner\Desktop\simple chat\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.exe
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.pdb
+F:\Snakes and Ladders\simple chat\Server\Server\bin\Debug\Server.exe
+F:\Snakes and Ladders\simple chat\Server\Server\bin\Debug\Server.pdb
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.Form1.resources
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Snakes and Ladders\simple chat\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+F:\Snakes and Ladders\bar project\Server\Server\obj\x86\Debug\Server.exe
+F:\Snakes and Ladders\bar project\Server\Server\obj\x86\Debug\Server.pdb
+F:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.exe
+F:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.pdb
+G:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.exe
+G:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.pdb
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\bin\Debug\Server.exe
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\bin\Debug\Server.pdb
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.Form1.resources
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.exe
+E:\Snakes and Ladders\4.4.16\bar project\Server\Server\obj\x86\Debug\Server.pdb
